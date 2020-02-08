@@ -129,7 +129,7 @@ body {
 }
 
 .section.colored {
-  background: #f2f2fe;
+  
 }
 
 .hr {
@@ -854,10 +854,7 @@ parallax & home seperator
   width: 140%;
   height: 140%;
   opacity: .95;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  background-image: url(../images/work-process-bg.png);
+  
   z-index: 2;
   top: -20%;
   left: -20%;

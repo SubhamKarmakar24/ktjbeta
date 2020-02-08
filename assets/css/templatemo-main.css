@@ -109,7 +109,7 @@ a:hover { color: #FF0; }
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
   border-color: black;
-  boder-right: 0;
+  border-right: 0;
 }
 .fixed-side-navbar .nav > li a:hover > span {
   color: black;
@@ -370,7 +370,7 @@ section {
   padding-top: 16vh;
   background-image: url(../img/5th-section.jpg);
 }
-
+/*
 .contact-form {
   background-color: rgba(0, 0, 0, 0.5);
   padding: 30px 25px;
@@ -421,7 +421,7 @@ section {
   text-decoration: none;
   letter-spacing: 0.5px;
 }
-
+*/
 .map {
   margin-bottom: 30px;
   width: 100%;
@@ -430,7 +430,7 @@ section {
 }
 
 
-
+/*
 footer {
   text-align: center;
   background-color: #282b2f;
@@ -485,7 +485,7 @@ footer em {
   font-weight: 600;
   font-style: normal;
 }
-
+*/
 @media (max-width: 767px){
   
   .baner-content {
